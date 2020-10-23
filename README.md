@@ -1,3 +1,5 @@
+<img align="left" width="50px" src="http://ihumaun.com/wp-content/uploads/2020/06/95419147_872799813183489_5938934919819427840_n-1.jpg"/>   
+
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
 - 🔭 Currently working on Go, MongoDB, Redis, RabbitMQ building faster and scalable backend and RESTful APIs.
