@@ -46,3 +46,5 @@ Humaun Kabir is a technology enthusiast and aspiring computer science grad from 
 <br />
 <br />
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ihumaunkabir&style=flat-square)
