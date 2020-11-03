@@ -1,5 +1,4 @@
-<img align="left" width="50px" src="http://ihumaun.com/wp-content/uploads/2020/06/95419147_872799813183489_5938934919819427840_n-1.jpg"/>   
-
+<a href="https://sourcerer.io/ihumaunkabir"><img src="https://avatars0.githubusercontent.com/u/12884938?v=4" height="100px" width="100px" alt=""/></a>
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
 - 🔭 Currently working on Go, MongoDB, Redis, RabbitMQ building faster and scalable backend and RESTful APIs.
@@ -46,5 +45,6 @@ Humaun Kabir is a technology enthusiast and aspiring computer science grad from 
 <br />
 <br />
 <br>
+<a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/Go-62%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/C++-56%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/C-46%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/PHP-38%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/Python-3%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/Java-42%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/HTML-29%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/ihumaunkabir"><img src="https://img.shields.io/badge/CSS-41%20commits-orange.svg" alt=""></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ihumaunkabir&style=flat-square)
