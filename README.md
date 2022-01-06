@@ -2,8 +2,8 @@
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
 - 🔭 Currently working on Go, MongoDB, Redis, RabbitMQ building faster and scalable backend and RESTful APIs.
-- 🌱 Currently learning Docker, WebRTC, WebSocket, Concurrency and Deep Learning.
-- 👯 Looking to collaborate on Microservice based applications and Deep Learning focusing Computer Vision.
+- 🌱 Currently learning Neural Networks, Natural Language Processing, Docker, Concurrency and DevOps.
+- 👯 Looking to collaborate on Machine Learning focusing Natural Language Processing and Microservice based data driven applications.
 
 Humaun Kabir is a technology enthusiast and aspiring computer science grad from Bangladesh. He has been working for bringing school students and university girls into the ICT sector for several years. Besides, he also coordinates competitive programming contests for girls and high school students nationally. He is widely known as a competitive programming enthusiast and sustainable development worker in different communities of Bangladesh. He travels a lot and has already travelled 43+ districts of Bangladesh
 
