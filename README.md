@@ -5,7 +5,7 @@
 - 🌱 Currently learning Neural Networks, Natural Language Processing, Docker, Concurrency and DevOps.
 - 👯 Looking to collaborate on Natural Language Processing, Machine Learning(Deep Learning) and Microservice based data driven applications.
 
-Humaun Kabir is a technology enthusiast and aspiring computer science grad from Bangladesh. He has been working for bringing school students and university girls into the ICT sector for several years. Besides, he also coordinates competitive programming contests for girls and high school students nationally. He travels frequently and like to explore people and culture.
+Humaun Kabir is a technology enthusiast and aspiring computer science grad from Bangladesh. He has been working for bringing school students and university girls into the ICT sector for several years envisioning SDG 4, 5 and 8. Besides, he also coordinates competitive programming contests for girls and high school students nationally. He travels frequently and like to explore people and culture.
 
 ### Connect with me:
 
