@@ -1,7 +1,7 @@
 <a href="https://sourcerer.io/ihumaunkabir"><img src="https://avatars0.githubusercontent.com/u/12884938?v=4" height="100px" width="100px" alt=""/></a>
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
-- 🔭 Currently working on C++, Go, MongoDB, Redis building faster and scalable backend and RESTful APIs.
+- 🔭 Currently working on Go, C++, Python MongoDB, Redis building faster and scalable backend, RESTful APIs and Neural Networks.
 - 🌱 Currently learning Neural Networks, Natural Language Processing, Docker, Concurrency and DevOps.
 - 👯 Looking to collaborate on Natural Language Processing, Machine Learning(Deep Learning) and Microservice based data driven applications.
 
