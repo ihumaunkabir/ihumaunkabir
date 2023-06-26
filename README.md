@@ -1,11 +1,10 @@
 <a href="https://sourcerer.io/ihumaunkabir"><img src="https://avatars0.githubusercontent.com/u/12884938?v=4" height="100px" width="100px" alt=""/></a>
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
-- 🔭 Currently working on Go, C++, Python MongoDB, Redis building faster and scalable backend, RESTful APIs and Neural Networks.
-- 🌱 Currently learning Neural Networks, Natural Language Processing, Docker, Concurrency and DevOps.
-- 👯 Looking to collaborate on Natural Language Processing, Machine Learning(Deep Learning) and Microservice based data driven applications.
+- 🔭 Currently working in Go, C++, Python and MongoDB building backend, RESTful APIs and Neural Networks.
+- 🌱 Currently into Neural Networks, Natural Language Processing, Deep Learning and DevOps.
+- 👯 Looking to collaborate on Natural Language Processing, Deep Learning and Microservice based data driven applications.
 
-Humaun Kabir is a technology enthusiast and aspiring computer science grad from Bangladesh. He has been working for bringing school students and university girls into the ICT sector for several years envisioning SDG 4, 5 and 8. Besides, he also coordinates competitive programming contests for girls and high school students nationally. He travels frequently and like to explore people and culture.
 
 ### Connect with me:
 
