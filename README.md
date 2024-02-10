@@ -1,9 +1,9 @@
 <a href="https://sourcerer.io/ihumaunkabir"><img src="https://avatars0.githubusercontent.com/u/12884938?v=4" height="100px" width="100px" alt=""/></a>
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
-- 🔭 Currently working in Go, Python, C++ and building backend, RESTful APIs, Neural Networks.
-- 🌱 Currently into Neural Networks, Natural Language Processing, Deep Learning and DevOps.
-- 👯 Looking to collaborate on Natural Language Processing, Deep Learning and Microservice based data driven applications.
+- 🔭 Currently working in Go, Python to build backend, intelligent models and solutions.
+- 🌱 Research interests insect in Natural Language Processing, Machine Learning and LLMs.
+- 👯 Looking to collaborate in Natural Language Processing, Machine Learning and Microservice based data driven applications.
 
 
 ### Connect with me:
