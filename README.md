@@ -1,9 +1,8 @@
 <a href="https://sourcerer.io/ihumaunkabir"><img src="https://avatars0.githubusercontent.com/u/12884938?v=4" height="100px" width="100px" alt=""/></a>
 ## Hi there, I'm [Humaun Kabir](https://www.linkedin.com/in/ihumaunkabir/) 👋
 
-- 🔭 Currently working in Go, Python to build backend, intelligent models and solutions.
-- 🌱 Research interests insect in Natural Language Processing, Machine Learning and LLMs.
-- 👯 Looking to collaborate in Natural Language Processing, Machine Learning and Microservice based data driven applications.
+- 🔭 Working in Go, Python to build backend and ML models.
+- 🌱 Research interests are Natural Language Processing, ML and LLMs.
 
 
 ### Connect with me:
